@@ -1,0 +1,8 @@
+wrapper.java.additional.303=-DOTEL_EXPORTER_OTLP_ENDPOINT="http://localhost:4317"
+wrapper.java.additional.304=-DOTEL_EXPORTER_OTLP_INSECURE=true
+wrapper.java.additional.305=-DOTEL_RESOURCE_ATTRIBUTES="service.name=apigw"
+wrapper.java.additional.306=-DOTEL_TRACES_EXPORTER="otlp,logging"
+wrapper.java.additional.307=-DOTEL_METRICS_EXPORTER="none"
+wrapper.java.additional.308=-DOTEL_LOGS_EXPORTER="none"
+wrapper.java.additional.309=-DOTEL_JAVAAGENT_DEBUG="false"
+wrapper.java.additional.310=-DOTEL_JAVAAGENT_ENABLED="true"        
